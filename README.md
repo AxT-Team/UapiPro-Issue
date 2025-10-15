@@ -1,9 +1,8 @@
 # UapiPro 公共问题仓库
 
-欢迎来到 UapiPro 的公共问题仓库。本仓库用于收集、跟踪与讨论 UapiPro 平台（主站：https://uapis.cn）相关的公共问题、迁移兼容性、接口变更通知与社区反馈。
+欢迎来到 UapiPro 的公共问题仓库。本仓库用于收集、跟踪与讨论 [UapiPro 平台](https://uapis.cn) 相关的公共问题、迁移兼容性、接口变更通知与社区反馈。
 
-> 迁移通知：旧版 UApi 正在迁移至 UapiPro，旧接口将陆续下线，请尽快适配并查看迁移指南：https://uapis.cn/migration
-
+> 迁移通知：旧版 UApi 正在迁移至 UapiPro，旧接口将陆续下线，请尽快适配并查看[迁移指南](https://uapis.cn/docs/getting-started/migration-guide)
 
 为什么选择 UapiPro
 ----------------
@@ -22,4 +21,4 @@ UapiPro 致力于为开发者提供免费、稳定、快速的公共 API 服务�
 - 在线工具（Beta）：面向前端与运维的实用在线工具合集。
 - 核心平台能力：用户鉴权、权限与流量控制、调用统计。
 
-若需企业级支持或私有部署方案，请访问主站联系我们： https://uapis.cn
+若需企业级支持或私有部署方案，请访问[这里](https://uapis.cn)联系我们
